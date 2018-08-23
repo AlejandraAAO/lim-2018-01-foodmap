@@ -4,6 +4,29 @@ Crea una web-app que a través de un input pueda filtrar los restaurantes
 que se encuentran cerca de ti *(Tú decides la estructura que tendrán tus datos,
 puedes crear una lista de restaurantes en un arreglo, en un objeto, consumir una API, etc. Lo importante es que el contenido debe ser dinámico y no estático y el diseño es totalmente libre)*.
 
+#### Principales Usuarios.
+
+Personas de entre 18 y 40 años que busquen un restaurant en donde consumir que este cerca a su domicilio o donde ellos esten.
+
+#### Como descubriste las necesidades del producto
+
+Haciendo 2 entrevistas a usuarios potenciales que, tenian la necesidad de encontrar restaurantes pero no sabian a donde ir y necesitaban direcciones para llegar mas rapido.
+
+#### Qué problema resuelve el producto para estos usuarios.
+
+Simplifica en gran medida el buscar en internet un lugar al azar en donde comer segun tus gustos y criterios de busqueda que tengas.
+
+#### Cuáles son los objetivos de estos usuarios en relación con el producto.
+
+Encontrar un restaurant y su direccion sin gastar tantos recursos.
+
+#### Cuáles son las principales funcionalidades del producto y cuál es su prioridad.
+
+Filtrar segun el criterio de eleccion para que te generen los restaurantes.
+Al seleccionar un nombre te salga un modal con su nombre, direccion y una imagen.
+
+
+
 #### Flujo de la aplicación.
 
 Vista splash con duración de 2 segundos que redirecciona a tu vista
