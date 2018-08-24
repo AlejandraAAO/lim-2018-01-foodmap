@@ -1,0 +1,14 @@
+body {
+  background-color: #e1eff2;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.loader {
+ 
+  top: 0;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+}
+
+

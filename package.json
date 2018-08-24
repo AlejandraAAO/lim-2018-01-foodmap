@@ -1,0 +1,14 @@
+{
+  "name": "lim-2018-01-foodmap",
+  "version": "1.0.0",
+  "description": "Aplicacion para encontrar restaurantes",
+  "main": "index.js",
+  "repository": "https://github.com/AlejandraAAO/lim-2018-01-foodmap.git",
+  "author": "AlejandraAAO <aventurero_7_20@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
