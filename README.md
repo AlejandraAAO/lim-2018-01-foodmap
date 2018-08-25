@@ -52,7 +52,11 @@ Muestra el costo promedio del servicio.
 
 ![PeruTravel](/img/peru_travel.png)
 
+#### Descripcion del Producto final.(25/08/2018)
 
+Presento una vista splash con motivos de alimentos como presentación.
+Te redirige a otra vista donde puedes ver en términos generales de que se trata el producto.
+Al hacer click en los nombres de restaurantes, aparece un modal que te da información sobre el restaurant.
 
 
 #### Requerimientos y Flujo de la aplicación.
