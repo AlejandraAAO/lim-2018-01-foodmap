@@ -1,14 +1,27 @@
 body {
-  background-color: #e1eff2;
   font-family: 'Quicksand', sans-serif;
+  background-color: #000000;
+  visibility: 30%;
 }
-
+h1 {
+  background-image: url("/img/fondo_ho.jpg");
+  background-size: contain;
+  -webkit-box-shadow: inset 0px 0px 28px 16px rgba(0,0,0,1);
+-moz-box-shadow: inset 0px 0px 28px 16px rgba(0,0,0,1);
+box-shadow: inset 0px 0px 28px 16px rgba(0,0,0,1);
+}
 .loader {
- 
-  top: 0;
-  left: 0;
   justify-content: center;
   align-items: center;
 }
+
+.row {
+  padding-top: 15%;
+}
+img {
+  padding-left: 10%;
+  visibility: 10%;
+}
+
 
 

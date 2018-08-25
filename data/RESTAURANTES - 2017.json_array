@@ -1,0 +1,698 @@
+[
+  [
+    "CODIGO-TIPO",
+    "TIPO",
+    "NOMBRE",
+    "UBICACIÓN",
+    "TELEFONO",
+    "CORREO ELECTRONICO"
+  ],
+  [
+    "1",
+    "Carnes y Parrillas",
+    "Angus Meat Market",
+    "Republica de Panama 6396",
+    "447 8982 - 447 8983",
+    "milenio-import@terra.com.pe"
+  ],
+  [
+    "1",
+    "Carnes y Parrillas",
+    "La Vaca Loca Rosenda",
+    "Malecón de la Reserva 610",
+    "4456427 - 2423979",
+    "info@lavacalocarosenda.com"
+  ],
+  [
+    "1",
+    "Carnes y Parrillas",
+    "Carnal",
+    "Calle Elías Aguirre 698, Miraflores",
+    "243-3089/243-3088.",
+    "hania@carnalprime.com"
+  ],
+  [
+    "1",
+    "Carnes y Parrillas",
+    "Cuarto y Mitad",
+    "Comandante Espinar 798",
+    "4465229 - 2425801",
+    "cuartoymitad@restaurantcuartoymitad.com"
+  ],
+  [
+    "1",
+    "Carnes y Parrillas",
+    "El Parrillon",
+    "Avenida 28 de Julio 795",
+    "4453061",
+    "marketing@elparrillon.com"
+  ],
+  [
+    "1",
+    "Carnes y Parrillas",
+    "Friday's",
+    "Av. Santa Cruz 824",
+    "2214080",
+    ""
+  ],
+  [
+    "1",
+    "Carnes y Parrillas",
+    "Tonny Romas",
+    "Larcomar",
+    "24209986",
+    "larco@tonyromas.com.pe"
+  ],
+  [
+    "1",
+    "Carnes y Parrillas",
+    "La Tranquera",
+    "Av Pardo 285",
+    "4454523",
+    "latranquera@peru.com"
+  ],
+  [
+    "1",
+    "Carnes y Parrillas",
+    "Pappa S",
+    "Calle Diez Canseco nº180 Miraflores",
+    "6523651",
+    "administracion@pappas.com.pe"
+  ],
+  [
+    "1",
+    "Carnes y Parrillas",
+    "El Parrillon de Pablo Profumo",
+    "Av. 28 de Julio 795-799",
+    "4453061",
+    "elparrilloncaja@gmail.com"
+  ],
+  [
+    "1",
+    "Carnes y Parrillas",
+    "Wallqa",
+    "Av. Vasco Nuñez de Balboa 530",
+    "242-9619",
+    ""
+  ],
+  [
+    "1",
+    "Carnes y Parrillas",
+    "Panchita Parrilla Peruana",
+    "Av. 2 de Mayo 298",
+    "2425957",
+    "panchita@panchita.com.pe"
+  ],
+  [
+    "2",
+    "Chifas",
+    "Chifa Fu Jou",
+    "Av. José Pardo 399 5to. Piso",
+    "4444500 - 4451635",
+    "chifafujou@yahoo.es"
+  ],
+  [
+    "2",
+    "Chifas",
+    "China Wok",
+    "Av. Larco 439",
+    "2260940",
+    ""
+  ],
+  [
+    "2",
+    "Chifas",
+    "Madame Tusan",
+    "Avenida Santa Cruz, 859",
+    "505 5090",
+    "madamtusan01@franquiciasperu.com"
+  ],
+  [
+    "2",
+    "Chifas",
+    "Pak Fok",
+    "Malecón de la Reserva N° 610",
+    "2411333",
+    "pakfok@yahoo.com"
+  ],
+  [
+    "2",
+    "Chifas",
+    "Oriental Wa Lok",
+    "Av. Angamos Oeste 700",
+    "4471329",
+    "walok@speddy.com.pe"
+  ],
+  [
+    "2",
+    "Chifas",
+    "Kam Mey My",
+    "Av. Benavides N° 1545",
+    "4470667",
+    ""
+  ],
+  [
+    "2",
+    "Chifas",
+    "Kuo Wha Gardens",
+    "Av. Paseo de La República N.5046",
+    "445-8539",
+    "informes@kuowha.com"
+  ],
+  [
+    "2",
+    "Chifas",
+    "Sentori Sushi",
+    "Av. Grau 192",
+    "6522888",
+    "albatroz@terra.com.pe"
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "El Señorío de Sulco",
+    "Malecón Cisneros 1470 Miraflores",
+    "4410183 - 4410389",
+    "restaurante@senoriodesulco.com"
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "Huaca Pucllana",
+    "General Borgoño Cdra. 8",
+    "4454042",
+    "huacapuc@renextel.com.pe"
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "Restaurant Moche",
+    "Av. República de Panamá 6445",
+    "2426955",
+    "restaurante-moche@hotmail.com"
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "El Parquetito",
+    "Calle Lima 373",
+    "4440490 - 4450940",
+    ""
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "Brujas de Cachiche",
+    "Jr. Bolognesi 472",
+    "4471883",
+    "tesoreria@brujasdelcachiche.com.pe"
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "La Gloria",
+    "Jr. Atahualpa 201",
+    "4455705 - 4466504",
+    "reservas@lagloriarestanurant.com"
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "La Caravana",
+    "Av Benavides Nº 2095 Miraflores",
+    "4446800",
+    ""
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "Kapallaq",
+    "Reducto 1505",
+    "4444149",
+    "http://elkapallaqrestaurant.blogspot.com/"
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "Pasadiso",
+    "Av. Reducto 1518",
+    "2433661",
+    "reservas@pasadisoperu.com"
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "Punto de Fuego",
+    "Av. La Mar 1085",
+    "4414564",
+    "chefgamboa@hotmail.com, puntodefuego@gmail.com"
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "Fiesta Restaurant Gourmet",
+    "Av. Reuducto 1278",
+    "2429009",
+    "reservas@restaurantfiestagourmet.com"
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "La Vista",
+    "Av. Malecón de la Reserva N° 615",
+    "2177000",
+    "restybars.lima@marriott.com"
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "Passion Restobar",
+    "Av. Angamos Oeste 542",
+    "",
+    ""
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "Saqra",
+    "Av. La paz 646 - Interior 11",
+    "650 8884",
+    "cormeno@saqra.pe"
+  ],
+  [
+    "3",
+    "Comida Criolla",
+    "Montecristo",
+    "Comandante Espinar 398",
+    "4463983",
+    "administracion@montecristoperu.com"
+  ],
+  [
+    "4",
+    "Comida de la Selva",
+    "Amaz",
+    "Avenida La Paz 1079",
+    "2219393",
+    ""
+  ],
+  [
+    "5",
+    "Comida Japonesa / Sushi / Nikei",
+    "Taiken Sushi Lounge",
+    "Calle Berlín 645",
+    "998348780",
+    "jaragaki@taikensushilounge.com"
+  ],
+  [
+    "5",
+    "Comida Japonesa / Sushi / Nikei",
+    "Magma Sushi Lounge",
+    "Calle San Martín N° 512",
+    "2426715",
+    "reservas@magmasushilounge.com"
+  ],
+  [
+    "5",
+    "Comida Japonesa / Sushi / Nikei",
+    "Jw Sushi Ceviche Lounge - Jw Marriott",
+    "Av. Malecón de la Reserva 615",
+    "2177000 - Anexo:6247",
+    "restybars.lima@marriott.com"
+  ],
+  [
+    "5",
+    "Comida Japonesa / Sushi / Nikei",
+    "Aka Tonbo Sushi Bar Karaoke",
+    "Alcanfores N° 377",
+    "4465219",
+    ""
+  ],
+  [
+    "5",
+    "Comida Japonesa / Sushi / Nikei",
+    "Makoto Sushi Bar",
+    "Calle 2 de Mayo 413",
+    "4463625",
+    "administracion@makotosushibar.com"
+  ],
+  [
+    "5",
+    "Comida Japonesa / Sushi / Nikei",
+    "Edo Sushi Bar",
+    "Calle Berlin 601 Urb. Cercado De Miraflores",
+    "2432448",
+    "Info@edosushibar.com"
+  ],
+  [
+    "5",
+    "Comida Japonesa / Sushi / Nikei",
+    "Ono Sushi Bar",
+    "Av. Vasco Nuñez de Balboa N° 747.",
+    "2434899",
+    ""
+  ],
+  [
+    "5",
+    "Comida Japonesa / Sushi / Nikei",
+    "Wasabi",
+    "Av. La Mar 1292",
+    "",
+    ""
+  ],
+  [
+    "5",
+    "Comida Japonesa / Sushi / Nikei",
+    "Ache",
+    "Av. La Paz 1055",
+    "2219315",
+    ""
+  ],
+  [
+    "5",
+    "Comida Japonesa / Sushi / Nikei",
+    "Mr Sushi",
+    "Av Comandante Espinar 326",
+    "4368282",
+    ""
+  ],
+  [
+    "6",
+    "Comida Peruana Internacional",
+    "La Rosa Náutica",
+    "Espigón 4 Circuito de Playas",
+    "",
+    "reservas@larosanautica.com"
+  ],
+  [
+    "6",
+    "Comida Peruana Internacional",
+    "Scena",
+    "Calle Francisco de Paula Camino N° 280",
+    "2418184",
+    "contabilidad@scena.com.pe"
+  ],
+  [
+    "6",
+    "Comida Peruana Internacional",
+    "La Boqueria de Pilar Fox",
+    "Av. La Mar 1328",
+    "",
+    ""
+  ],
+  [
+    "6",
+    "Comida Peruana Internacional",
+    "El Mingao",
+    "Av. Benavides 1057",
+    "4441882",
+    ""
+  ],
+  [
+    "6",
+    "Comida Peruana Internacional",
+    "Donde Mario",
+    "Av. Grau 151",
+    "242-7433",
+    ""
+  ],
+  [
+    "6",
+    "Comida Peruana Internacional",
+    "Corrientes 348",
+    "Av. Benavides 2123",
+    "272-1128",
+    ""
+  ],
+  [
+    "6",
+    "Comida Peruana Internacional",
+    "Arugula",
+    "Calle San Fernando 320",
+    "4440132",
+    "olgafernandini@hotmail.com"
+  ],
+  [
+    "6",
+    "Comida Peruana Internacional",
+    "Los Bachiche",
+    "",
+    "221-9283",
+    ""
+  ],
+  [
+    "7",
+    "Fusión",
+    "Embarcadero 41",
+    "Av. La Mar 456",
+    "",
+    "marketing@embarcadero41.com"
+  ],
+  [
+    "7",
+    "Fusión",
+    "El Kapallac",
+    "Av. Reducto 1505",
+    "4444149",
+    "elkapallaqrestaurant@hotmail.com"
+  ],
+  [
+    "7",
+    "Fusión",
+    "Mama Olla",
+    "Calle Tarata 248",
+    "4452947",
+    ""
+  ],
+  [
+    "7",
+    "Fusión",
+    "Manifiesto",
+    "Calle Independencia con Av. Jose Pardo",
+    "",
+    ""
+  ],
+  [
+    "7",
+    "Fusión",
+    "Central Restaurante",
+    "Santa Isabel 376",
+    "2428515",
+    ""
+  ],
+  [
+    "8",
+    "Panaderia - Pasteleria",
+    "Crepes & Waffles",
+    "Vasco Nuñez de Balboa 757",
+    "651 2945",
+    ""
+  ],
+  [
+    "8",
+    "Panaderia - Pasteleria",
+    "Chelsy",
+    "Avenida 28 de Julio, 192",
+    "445 5647",
+    ""
+  ],
+  [
+    "8",
+    "Panaderia - Pasteleria",
+    "Doña Victoria",
+    "Avenida Enrique Palacios, 633",
+    "444 9760",
+    ""
+  ],
+  [
+    "8",
+    "Panaderia - Pasteleria",
+    "Babolti",
+    "Av. Jose Pardo 541",
+    "444 1472",
+    ""
+  ],
+  [
+    "8",
+    "Panaderia - Pasteleria",
+    "Las Delicias",
+    "Ca. Ignacio Merino 505 (esq. La Mar)",
+    "",
+    ""
+  ],
+  [
+    "8",
+    "Panaderia - Pasteleria",
+    "DeliFrance Delicatessen",
+    "Av. Comandante Espinar 685",
+    "",
+    ""
+  ],
+  [
+    "8",
+    "Panaderia - Pasteleria",
+    "Bendito Pan",
+    "Av. Mariscal la Mar 1300",
+    "2215646",
+    "benditopan@outlook.com.pe"
+  ],
+  [
+    "9",
+    "Pescados y Mariscos",
+    "Costanera 700",
+    "Av. El Ejército 421 Miraflores",
+    "4214635 - 4217508",
+    "humberto700@hotmail.com"
+  ],
+  [
+    "9",
+    "Pescados y Mariscos",
+    "El Pez Amigo",
+    "Av. La Paz 1640 Miraflores",
+    "4459783 - 4443916",
+    "elpezamigo1@hotmail.com.pe"
+  ],
+  [
+    "9",
+    "Pescados y Mariscos",
+    "Francesco",
+    "Malecón de la Marina 526",
+    "4428255 - 2212697",
+    "francesco@terra.com.pe"
+  ],
+  [
+    "9",
+    "Pescados y Mariscos",
+    "La Preferida",
+    "Calle Arias Araguez 698",
+    "4455180",
+    "miraflores@restaurantelapreferida.com"
+  ],
+  [
+    "9",
+    "Pescados y Mariscos",
+    "Punta Sal",
+    "Malecón Cisneros Cda. 3 Esq. con Trípoli",
+    "2424525",
+    ""
+  ],
+  [
+    "9",
+    "Pescados y Mariscos",
+    "Alfresco",
+    "Malecón Bajada Balta 790",
+    "2428960 - 4447962",
+    "billacorta@estaurantealfresco.com"
+  ],
+  [
+    "9",
+    "Pescados y Mariscos",
+    "Altamar",
+    "Av. José Pardo 610 - 2do piso Mezzanine",
+    "242-3619",
+    "altamar_restaurant@hotmail.com"
+  ],
+  [
+    "9",
+    "Pescados y Mariscos",
+    "Centolla",
+    "Av. 2 de Mayo 729 Miraflores",
+    "4455021 - 4102415",
+    "centollarestaurante@yahoo.es"
+  ],
+  [
+    "9",
+    "Pescados y Mariscos",
+    "La Mar",
+    "Av. La Mar 770",
+    "4213365",
+    "lamar@lamarcebicheria.com.pe"
+  ],
+  [
+    "9",
+    "Pescados y Mariscos",
+    "Pescados Capitales",
+    "Av. La Mar 1337",
+    "222 5731 - 4218808",
+    "pescadoscapitales@infonegocio.net.pe"
+  ],
+  [
+    "9",
+    "Pescados y Mariscos",
+    "El Kapallaq",
+    "Av. Petit Thouars N° 4844",
+    "4444149",
+    ""
+  ],
+  [
+    "9",
+    "Pescados y Mariscos",
+    "El mercado",
+    "Calle Hipolito Unanue 203",
+    "221 1322",
+    ""
+  ],
+  [
+    "9",
+    "Pescados y Mariscos",
+    "Santo Pez",
+    "Av. Benavides N° 4503",
+    "2714087",
+    "reservassurco@santopez.com"
+  ],
+  [
+    "10",
+    "Restaurante Bar",
+    "Mangos",
+    "Malecón de la Reserva 610 - Local 4 - 02 Larcomar",
+    "2428110 - 2426779",
+    "gcasas@mangosperu.com"
+  ],
+  [
+    "10",
+    "Restaurante Bar",
+    "Bar Pisco El Marquez",
+    "Av. 28 de Julio 487 Miraflores",
+    "2436636 - 4459361",
+    "hotelferrecolonial@hotmail.com"
+  ],
+  [
+    "10",
+    "Restaurante Bar",
+    "Rústica",
+    "Pj. San Ramón 104 Miraflores",
+    "242-4457",
+    ""
+  ],
+  [
+    "11",
+    "Sandwicherias y Cafés",
+    "Bembos",
+    "Av. Benavides 1821  /Av. Larco 461  / Av. Santa Cruz 808",
+    "",
+    ""
+  ],
+  [
+    "11",
+    "Sandwicherias y Cafés",
+    "Super Rueda",
+    "Av. José Pardo 1224",
+    "4456919 / 942418911",
+    "cdurand.superrueda@gmail.com  / gerencia@superrueda.pe"
+  ],
+  [
+    "11",
+    "Sandwicherias y Cafés",
+    "Dulcinea",
+    "Calle Torre Tagle 301",
+    "241 5684",
+    "pedidos@dulcineaperu.com"
+  ],
+  [
+    "11",
+    "Sandwicherias y Cafés",
+    "La Lucha Sangucheria",
+    "Av Diagonal 308",
+    "447 5452",
+    ""
+  ]
+]
