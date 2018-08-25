@@ -72,14 +72,17 @@ const paintPlaces= (obj) =>{
       //modales
 
       let boxModal = document.createElement("div");
-      boxModal.setAttribute("id", `${rest.code}`);
-      boxModal.setAttribute("class", "modal");
+      
+      boxModal.setAttribute("class",`modal ${rest.code}`);
       
       let modalContent = document.createElement("div");
       modalContent.setAttribute("class", "modal-content");
 
       let title = document.createElement("h4");
       let textTitle = document.createTextNode(`${rest.name}`);
+      let imgM = document.createElement("img");
+      imgM.setAttribute("src", "/img/map.png");
+      imgM.setAttribute("class", "responsive-img");
       title.appendChild(textTitle);
       let type=document.createElement("p");
       let typeText = document.createTextNode(`Tipo de comida :${rest.type}`);
@@ -93,32 +96,30 @@ const paintPlaces= (obj) =>{
       exit.appendChild(exitText);
 
       modalContent.appendChild(title);
+      modalContent.appendChild(imgM);
       modalContent.appendChild(type);
       modalContent.appendChild(location);
       modalContent.appendChild(exit);
       boxModal.appendChild(modalContent);
       modales.appendChild(boxModal);
 
-    //createmodal(rest);
+    
     
   })
   
 }
 
-const modals = document.getElementsByClassName("modal");
-console.log(modals);
-const modalsArray = Array.from (modals);
-console.log(modalsArray);
-
 
 restaurants.addEventListener("click", e =>{
-  let idRest = e.target.id
-  console.log(idRest);
+  let idRest = e.target.id;
+  //console.log(idRest);
 
-  //createmodal(str);
+  let x= document.querySelectorAll(`div.${idRest}`);
+  x[0].style.display = "block";
 
+  let b = document.querySelectorAll(`button.close`);
+  console.log(b);
 
-})
-
+});
 
 window.addEventListener("load", findPlaces);
