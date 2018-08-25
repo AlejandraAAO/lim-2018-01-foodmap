@@ -25,9 +25,37 @@ Encontrar un restaurant y su direccion sin gastar tantos recursos.
 Filtrar segun el criterio de eleccion para que te generen los restaurantes.
 Al seleccionar un nombre te salga un modal con su nombre, direccion y una imagen.
 
+#### Benchmarck
+
+Se encontro tres web similares a foomap:
+
+##### Atrapalo.com
+Cuenta con datos basicos de los restaurantes.
+Permite reservar mesa.
+Ofrece descuentos en la carta de los restaurantes.
+Tiene secciones de mejor precio, mejor descuento y mejor valorado.
+
+![Atrapalo](/img/atrapalo.png)
+
+##### Tipadvisor.com.pe
+Cuenta con datos basicos de los restaurantes.
+No permite reservar mesa.
+Muestra comentarios de usuarios que recomiendan restaurantes.
+Permite filtrar la informacion por varios criterios
+
+![Tripadvisor](/img/tripadvisor.png)
+
+##### Peru Travel
+Cuenta con datos basicos de los restaurantes.
+No permite reservar mesa.
+Muestra el costo promedio del servicio.
+
+![PeruTravel](/img/peru_travel.png)
 
 
-#### Flujo de la aplicación.
+
+
+#### Requerimientos y Flujo de la aplicación.
 
 Vista splash con duración de 2 segundos que redirecciona a tu vista
 principal.

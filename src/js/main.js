@@ -1,5 +1,7 @@
 
 let restaurants= document.getElementById("restaurants");
+let modales= document.getElementById("modales");
+
 
  $(document).ready(function(){
   $('.slider').slider();
@@ -13,11 +15,13 @@ const findPlaces = ()=>{
       //console.log(places);
 
       places.forEach(place => {
+
         let placeInfo = {
           type: place[1],
           name: place[2],
           location: place[3],
           phone: place[4],
+          code: place[5]
         }
         allPlacesInfo.push(placeInfo)
         
@@ -28,10 +32,10 @@ const findPlaces = ()=>{
 
 const paintPlaces= (obj) =>{
   let values = Object.values(obj);
-  console.log(values);
+  //console.log(values);
 
   values.forEach( rest=>{
-      console.log(rest);  
+     // console.log(rest);  
       //caja 
       let box = document.createElement("div");
       box.setAttribute("class", "card");
@@ -41,8 +45,10 @@ const paintPlaces= (obj) =>{
 
       let boxButton = document.createElement("div");
       boxButton.setAttribute("class", "card-action");
-      let  aButton = document.createElement("a");
-      aButton.setAttribute("href", "#");
+      let  aButton = document.createElement("button");
+      aButton.setAttribute("class", "btn modal-trigger")
+      
+      aButton.setAttribute("id", `${rest.code}`)
       let aButtonText = document.createTextNode("Info");
 
       let img = document.createElement("i");
@@ -61,27 +67,58 @@ const paintPlaces= (obj) =>{
       boxButton.appendChild(aButton)
       box.appendChild(boxContent);
       box.appendChild(boxButton);
-    restaurants.appendChild(box);
+      restaurants.appendChild(box);
+
+      //modales
+
+      let boxModal = document.createElement("div");
+      boxModal.setAttribute("id", `${rest.code}`);
+      boxModal.setAttribute("class", "modal");
+      
+      let modalContent = document.createElement("div");
+      modalContent.setAttribute("class", "modal-content");
+
+      let title = document.createElement("h4");
+      let textTitle = document.createTextNode(`${rest.name}`);
+      title.appendChild(textTitle);
+      let type=document.createElement("p");
+      let typeText = document.createTextNode(`Tipo de comida :${rest.type}`);
+      type.appendChild(typeText);
+      let location= document.createElement("p");
+      let locText = document.createTextNode(`Direccion : ${rest.location}`);
+      location.appendChild(locText);
+      let exit = document.createElement("button");
+      exit.setAttribute("class", "close");
+      let exitText = document.createTextNode("SALIR");
+      exit.appendChild(exitText);
+
+      modalContent.appendChild(title);
+      modalContent.appendChild(type);
+      modalContent.appendChild(location);
+      modalContent.appendChild(exit);
+      boxModal.appendChild(modalContent);
+      modales.appendChild(boxModal);
+
+    //createmodal(rest);
+    
   })
-  // let box = document.createElement("div");
-  // let text = document.createElement("span");
-  // let textoIn = document.createTextNode()
+  
 }
-// const paintPlaces= (obj)=>{
-//   let aModal = document.createElement("a");
-//   aModal.setAttribute("class", "btn modal-trigger");
-//   aModal.setAttribute("href", `${obj.name}`)
-//   let boxR = document.createElement("div");
-//   boxR.style.backgroundImage="url('/img/plate.jpg')";
-//   let nameR = document.createElement("h4");
-//   let textNameR = document.createTextNode(`${obj.name}`);
-//   nameR.setAttribute("class", "white-text");
-//   nameR.appendChild(textNameR);
-//   boxR.appendChild(nameR);
-//   aModal.appendChild(boxR);
-//   restaurants.appendChild(aModal)
+
+const modals = document.getElementsByClassName("modal");
+console.log(modals);
+const modalsArray = Array.from (modals);
+console.log(modalsArray);
 
 
-// }
+restaurants.addEventListener("click", e =>{
+  let idRest = e.target.id
+  console.log(idRest);
+
+  //createmodal(str);
+
+
+})
+
 
 window.addEventListener("load", findPlaces);

@@ -3,7 +3,7 @@ body.addEventListener("load", timeout);
 
 window.onload = timeout;
 function timeout (){
-  window.setTimeout("redirect()", 8000)
+  window.setTimeout("redirect()", 2000)
 }
 
 function redirect(){
