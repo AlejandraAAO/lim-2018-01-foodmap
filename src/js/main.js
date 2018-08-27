@@ -9,7 +9,7 @@ let modales= document.getElementById("modales");
 let allPlacesInfo = [];
 //primer intento con fetch 
 const findPlaces = ()=>{
-  fetch("/data/RESTAURANTES - 2017.json_array")
+  fetch("../data/RESTAURANTES - 2017.json_array")
     .then(response => response.json())
     .then(places => {
       //console.log(places);
