@@ -7,6 +7,6 @@ function timeout (){
 }
 
 function redirect(){
-  window.location.href = "../html/wall.html"
+  window.location.href = "wall.html"
   return
 }

@@ -9,7 +9,7 @@ let modales= document.getElementById("modales");
 let allPlacesInfo = [];
 //primer intento con fetch 
 const findPlaces = ()=>{
-  fetch("/data/RESTAURANTES - 2017.json_array")
+  fetch("data/RESTAURANTES - 2017.json_array")
     .then(response => response.json())
     .then(places => {
       //console.log(places);
@@ -81,7 +81,7 @@ const paintPlaces= (obj) =>{
       let title = document.createElement("h4");
       let textTitle = document.createTextNode(`${rest.name}`);
       let imgM = document.createElement("img");
-      imgM.setAttribute("src", "/img/map.png");
+      imgM.setAttribute("src", "img/map.png");
       imgM.setAttribute("class", "responsive-img");
       title.appendChild(textTitle);
       let type=document.createElement("p");
@@ -104,7 +104,9 @@ const paintPlaces= (obj) =>{
       modales.appendChild(boxModal);
 
     
-    
+    exit.addEventListener("click", ()=>{
+      boxModal.style.display = "none";
+    })
   })
   
 }

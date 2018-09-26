@@ -1,6 +1,6 @@
 body {
   background-color: #fff;
-  background-image: url("/img/fondo-oscuro.png");
+  background-image: url("/src/img/fondo-oscuro.png");
   background-size: cover;
   
 }
@@ -54,7 +54,9 @@ nav {
   font-size: 28px;
   font-weight: bold;
 }
-
+.modclose {
+  display: none;
+}
 .close:hover,
 .close:focus {
   color: black;
